@@ -1,0 +1,6 @@
+numero = 20
+
+if numero > 20:
+   print ('É um numero grande')
+else: 
+   print ('É um numero pequeno')
